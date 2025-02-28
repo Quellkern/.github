@@ -1,6 +1,6 @@
 # 🚀 Welcome to **Quellkern**  
 
-We are called **Quellkern**, a dynamic duo organization where collaboration and innovation thrive. We are a two-person team passionate about building creative projects that solve real-world problems and push the boundaries of our own creativity. Together, we combine our skills to deliver impactful solutions.  
+We are called **Quellkern**, a two-person team passionate about building creative projects that solve real-world problems and push the boundaries of our own creativity. Together, we combine our skills to deliver impactful solutions.  
 
 ---
 
